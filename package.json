@@ -1,0 +1,19 @@
+{
+  "name": "zutilsz",
+  "version": "0.0.1",
+  "description": "js工具库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zys8119/zutilsz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zys8119/zutilsz/issues"
+  },
+  "homepage": "https://github.com/zys8119/zutilsz#readme"
+}
